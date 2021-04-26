@@ -1,1 +1,0 @@
-# Salesforce-notes-interview-ques
